@@ -24,4 +24,9 @@ missing values the only preprocessing step nessesary is to normalize it since th
 
 ## Conclusion
 
-higher error in the first few epochs is propably because of randomly initialised values
+
+test loss: 0.007220297586172819
+
+test mse: 0.007220297586172819
+
+a higher error in the first few epochs of training tha sometimes appears is propably because of randomly initialised values
